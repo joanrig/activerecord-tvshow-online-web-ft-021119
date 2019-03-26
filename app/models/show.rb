@@ -16,6 +16,7 @@ class Show < ActiveRecord::Base
     Show.where(rating: lowest_rating).first
   end
 
-  def self.
+  def 
+  end
 
 end
